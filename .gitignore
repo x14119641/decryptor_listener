@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Other stuff:
+*.log
+*.crypt
+queries/example4.sql
+queries/bookstore_example2.sql
